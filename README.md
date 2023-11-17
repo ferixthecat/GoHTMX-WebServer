@@ -1,1 +1,1 @@
-# tokyo-itinerary
+# HTMX with Golang
